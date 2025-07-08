@@ -1,0 +1,9 @@
+venv
+Data Simple
+__pycache__
+/ diffusion/__pycache__/predefined_variables.cpython-312.pyc
+TIR1Data
+Data Simple ZIp
+TIR1Data*/
+*.zip
+*.npy

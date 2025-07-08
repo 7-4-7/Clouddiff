@@ -1,0 +1,8 @@
+numpy
+matplotlib
+pandas
+h5py
+torch==2.7.1+cu128
+torchvision==0.18.1+cu128
+torchaudio==2.7.1+cu128
+tqdm
